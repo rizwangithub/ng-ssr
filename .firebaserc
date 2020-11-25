@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "myoffers": {
+      "hosting": {
+        "myoffers": [
+          "myoffers"
+        ]
+      }
+    }
+  }
+}
