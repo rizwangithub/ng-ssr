@@ -59,9 +59,7 @@
  .pricing.pricing-lable, .navigation .nav-link.active:after {
    display: none;
  }
- .carousel-item {
-    height: 370px;
- }
+
  .carousel-indicators {
   justify-content: center;
  }
